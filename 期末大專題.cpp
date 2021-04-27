@@ -162,4 +162,5 @@ int main()
     {
         menu(t,a);
     }
+    cout<<"fhgaSFGSDHFGHSK"<<endl;
 }
